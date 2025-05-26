@@ -1,0 +1,13 @@
+{
+  "customers": [
+    { "id": 1, "nome": "Ana Silva", "email": "ana@gmail.com" },
+    { "id": 2, "nome": "Carlos Souza", "email": "carlos@gmail.com" },
+    { "id": 3, "nome": "Beatriz Lima", "email": "beatriz@gmail.com" }
+  ],
+  "orders": [
+    { "id": 1, "produto": "Teclado", "valor": "R$ 250,00", "status": "Enviado" },
+    { "id": 2, "produto": "Mouse Gamer", "valor": "R$ 180,00", "status": "Pendente" },
+    { "id": 3, "produto": "Monitor 24\"", "valor": "R$ 899,00", "status": "Cancelado" },
+    { "id": 4, "produto": "Mouse Gamer", "valor": "R$ 180,00", "status": "Enviado" }
+  ]
+}

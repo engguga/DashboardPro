@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nome": "Ana Silva", "email": "ana@gmail.com" },
+  { "id": 2, "nome": "Carlos Souza", "email": "carlos@gmail.com" },
+  { "id": 3, "nome": "Beatriz Lima", "email": "beatriz@gmail.com" },
+  { "id": 4, "nome": "Daniel Oliveira", "email": "daniel@gmail.com" },
+  { "id": 5, "nome": "Fernanda Costa", "email": "fernanda@gmail.com" },
+  { "id": 6, "nome": "Lucas Pereira", "email": "lucas@gmail.com" },
+  { "id": 7, "nome": "Patrícia Gomes", "email": "patricia@gmail.com" },
+  { "id": 8, "nome": "Rafael Fernandes", "email": "rafael@gmail.com" },
+  { "id": 9, "nome": "Marcela Souza", "email": "marcela@gmail.com" },
+  { "id": 10, "nome": "Thiago Almeida", "email": "thiago@gmail.com" }
+]

@@ -1,0 +1,35 @@
+{
+  "customers": [
+    { "id": 1, "nome": "Ana Silva", "email": "ana@gmail.com" },
+    { "id": 2, "nome": "Carlos Souza", "email": "carlos@gmail.com" },
+    { "id": 3, "nome": "Beatriz Lima", "email": "beatriz@gmail.com" },
+    { "id": 4, "nome": "Lucas Pereira", "email": "lucas@gmail.com" },
+    { "id": 5, "nome": "Mariana Costa", "email": "mariana@gmail.com" },
+    { "id": 6, "nome": "Fernanda Rocha", "email": "fernanda@gmail.com" },
+    { "id": 7, "nome": "Rafael Melo", "email": "rafael@gmail.com" }
+  ],
+  "orders": [
+    { "id": 1, "produto": "Teclado Mecânico", "valor": "R$ 350,00", "status": "Enviado" },
+    { "id": 2, "produto": "Mouse Gamer", "valor": "R$ 180,00", "status": "Pendente" },
+    { "id": 3, "produto": "Monitor 24\"", "valor": "R$ 899,00", "status": "Cancelado" },
+    { "id": 4, "produto": "Cadeira Gamer", "valor": "R$ 1.299,00", "status": "Enviado" },
+    { "id": 5, "produto": "Headset", "valor": "R$ 299,00", "status": "Pendente" },
+    { "id": 6, "produto": "Notebook", "valor": "R$ 4.500,00", "status": "Enviado" },
+    { "id": 7, "produto": "Mousepad RGB", "valor": "R$ 150,00", "status": "Enviado" },
+    { "id": 8, "produto": "Fone Bluetooth", "valor": "R$ 199,90", "status": "Cancelado" },
+    { "id": 9, "produto": "Webcam Full HD", "valor": "R$ 480,00", "status": "Enviado" },
+    { "id": 10, "produto": "SSD 1TB", "valor": "R$ 529,00", "status": "Enviado" }
+  ],
+  "products": [
+    { "id": 1, "nome": "Teclado Mecânico", "categoria": "Periféricos", "estoque": 14 },
+    { "id": 2, "nome": "Mouse Gamer", "categoria": "Periféricos", "estoque": 25 },
+    { "id": 3, "nome": "Monitor 24\"", "categoria": "Monitores", "estoque": 8 },
+    { "id": 4, "nome": "Cadeira Gamer", "categoria": "Mobiliário", "estoque": 5 },
+    { "id": 5, "nome": "Headset", "categoria": "Áudio", "estoque": 12 },
+    { "id": 6, "nome": "Notebook", "categoria": "Computadores", "estoque": 4 },
+    { "id": 7, "nome": "Mousepad RGB", "categoria": "Periféricos", "estoque": 40 },
+    { "id": 8, "nome": "Fone Bluetooth", "categoria": "Áudio", "estoque": 18 },
+    { "id": 9, "nome": "Webcam Full HD", "categoria": "Acessórios", "estoque": 7 },
+    { "id": 10, "nome": "SSD 1TB", "categoria": "Armazenamento", "estoque": 20 }
+  ]
+}
