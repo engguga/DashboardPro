@@ -58,10 +58,5 @@ A professional responsive dashboard application for data visualization, orders m
 
 -  These improvements will be updated and committed over time.
 
-### 🔗 Example:
 
-```js
-fetch('/orders.json') // Fetches local JSON
-// Replace with:
-// fetch('https://api.yourdomain.com/orders')
 
