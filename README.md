@@ -35,28 +35,34 @@ fetch('/orders.json') // Fetches local JSON
 // Replace with:
 // fetch('https://api.yourdomain.com/orders')
 
-# 🛠️ Technologies Used
+---
 
-React + Vite
+## 🛠️ Technologies Used
 
-Tailwind CSS
+- React + Vite
 
-Heroicons
+- Tailwind CSS
 
-Recharts (Charts)
+- Heroicons
 
-React Hot Toast (Notifications)
+- Recharts (Charts)
 
-# Install dependencies:
+- React Hot Toast (Notifications)
 
-npm install
+---
 
-npm run dev
+## Install dependencies:
 
-# Notes
+- npm install
 
- The project is fully functional but still has small UI/UX details to improve.
+- npm run dev
 
- These improvements will be updated and committed over time.
+---
+
+## Notes
+
+-  The project is fully functional but still has small UI/UX details to improve.
+
+-  These improvements will be updated and committed over time.
 
 
