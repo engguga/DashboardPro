@@ -28,13 +28,6 @@ A professional responsive dashboard application for data visualization, orders m
 - This simulates an API for development and deployment on Vercel.
 - The JSON data can be easily replaced with a real API by updating the `fetch()` calls in the components.
 
-### 🔗 Example:
-
-```js
-fetch('/orders.json') // Fetches local JSON
-// Replace with:
-// fetch('https://api.yourdomain.com/orders')
-
 ---
 
 ## 🛠️ Technologies Used
@@ -65,4 +58,10 @@ fetch('/orders.json') // Fetches local JSON
 
 -  These improvements will be updated and committed over time.
 
+### 🔗 Example:
+
+```js
+fetch('/orders.json') // Fetches local JSON
+// Replace with:
+// fetch('https://api.yourdomain.com/orders')
 
