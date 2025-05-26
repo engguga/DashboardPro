@@ -44,7 +44,7 @@ A professional responsive dashboard application for data visualization, orders m
 
 ---
 
-## Install dependencies:
+## 💻 Install dependencies:
 
 - npm install
 
@@ -52,7 +52,7 @@ A professional responsive dashboard application for data visualization, orders m
 
 ---
 
-## Notes
+## 📑 Notes
 
 -  The project is fully functional but still has small UI/UX details to improve.
 
